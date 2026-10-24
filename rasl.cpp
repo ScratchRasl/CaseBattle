@@ -12,7 +12,18 @@ int main(){
         cout << "hello RaslPes;";
     }
 
+    int array[5];
+    
+    cout << "hello world!";
 
+
+cout << "hello world!";
+cout << "hello world!";
+cout << "hello world!";
+cout << "hello world!";    
+cout << "hello world!";
+cout << "hello world!";
+cout << "hello world!";
     getch();
     return 0;
 }
